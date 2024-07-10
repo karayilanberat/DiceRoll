@@ -1,4 +1,4 @@
-<img src="(https://github.com/karayilanberat/DiceRoll/assets/125715212/3617a784-7e0c-4f31-9b6a-a5ee6fbca240)" width="300">
+<img src="https://github.com/karayilanberat/DiceRoll/assets/125715212/3617a784-7e0c-4f31-9b6a-a5ee6fbca240" width="300">
 
 # Dicee
 
