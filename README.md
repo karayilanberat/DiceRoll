@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-10 at 19 58 53](https://github.com/karayilanberat/DiceRoll/assets/125715212/3617a784-7e0c-4f31-9b6a-a5ee6fbca240)
+<img src="[https://github.com/karayilanberat/I-am-Poor/assets/125715212/e6c1c65a-0323-48fd-8842-a5e7de15ceb4](https://github.com/karayilanberat/DiceRoll/assets/125715212/3617a784-7e0c-4f31-9b6a-a5ee6fbca240)" width="300">
 
 # Dicee
 
